@@ -1,21 +1,21 @@
 .panel {
-	display: none;
+  display: none;
 }
 
 .panel:target {
-	display: block;
+  display: block;
 }
 
 a {
-	border-radius: 50%;
-	border: 3px solid black;
-	width: 10px;
-	height: 10px;
-	overflow: hidden;
-	display: inline-block;
+  border-radius: 50%;
+  border: 3px solid black;
+  width: 10px;
+  height: 10px;
+  overflow: hidden;
+  display: inline-block;
 }
 
 .circles {
-	text-align: center;
-	width: 55%;
+  text-align: center;
+  width: 55%;
 }
