@@ -1,9 +1,9 @@
 .panel {
-display: none;
+	display: none;
 }
 
 .panel:target {
-display: block;
+	display: block;
 }
 
 a {
